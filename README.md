@@ -3,8 +3,9 @@
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=200&section=header&text=NEXUS&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Task+Intelligence+%E2%AC%A1&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
+
 <!-- TYPING ANIMATION -->
-<a href="https://github.com/yourusername/nexus-todo">
+<a href="https://github.com/mukilanchithrakumar/nexus-todo">
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=⬡+Modern+Task+Intelligence+App;⚡+Priority+%7C+Subtasks+%7C+Pomodoro;🎨+Glassmorphic+Dark+UI+Design;🔍+Search+%7C+Filter+%7C+Drag+%26+Drop;💾+Fully+Persistent+%26+Keyboard+Driven" alt="Typing SVG" />
 </a>
 
@@ -19,9 +20,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/yourusername/nexus-todo?style=for-the-badge&color=7c3aed&labelColor=0e0e1a" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/yourusername/nexus-todo?style=for-the-badge&color=06b6d4&labelColor=0e0e1a" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/yourusername/nexus-todo?style=for-the-badge&color=f472b6&labelColor=0e0e1a" alt="Issues"/>
+  <img src="https://img.shields.io/github/stars/mukilanchithrakumar/nexus-todo?style=for-the-badge&color=7c3aed&labelColor=0e0e1a" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/mukilanchithrakumar/nexus-todo?style=for-the-badge&color=06b6d4&labelColor=0e0e1a" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/mukilanchithrakumar/nexus-todo?style=for-the-badge&color=f472b6&labelColor=0e0e1a" alt="Issues"/>
   <img src="https://img.shields.io/badge/License-MIT-34d399?style=for-the-badge&labelColor=0e0e1a" alt="License"/>
   <img src="https://img.shields.io/badge/Version-1.0.0-fbbf24?style=for-the-badge&labelColor=0e0e1a" alt="Version"/>
 </p>
@@ -29,7 +30,7 @@
 <br/>
 
 <!-- DEMO LINK BUTTON -->
-<a href="https://yourusername.github.io/nexus-todo">
+<a href="https://mukilanchithrakumar.github.io/nexus-todo">
   <img src="https://img.shields.io/badge/🚀_Live_Demo-7C3AED?style=for-the-badge&logoColor=white" alt="Live Demo" height="40"/>
 </a>
 &nbsp;
@@ -135,7 +136,7 @@ It combines the aesthetics of a premium SaaS product with practical productivity
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/nexus-todo.git
+git clone https://github.com/mukilanchithrakumar/nexus-todo.git
 
 # Navigate into it
 cd nexus-todo
@@ -150,13 +151,13 @@ open todo-app.html
 1. Fork this repository
 2. Go to Settings → Pages
 3. Set source to main branch / root
-4. Visit https://yourusername.github.io/nexus-todo
+4. Visit https://mukilanchithrakumar.github.io/nexus-todo
 ```
 
 ### Option 3 — One-liner
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/nexus-todo/main/todo-app.html && open todo-app.html
+curl -O https://raw.githubusercontent.com/mukilanchithrakumar/nexus-todo/main/todo-app.html && open todo-app.html
 ```
 
 > **No Node.js. No npm. No build step.** It just works. ✦
@@ -197,7 +198,7 @@ nexus-todo/
 ## 📊 &nbsp;Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nexus-todo&theme=tokyonight&border_color=7c3aed&bg_color=0e0e1a&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4" alt="Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukilanchithrakumar&repo=nexus-todo&theme=tokyonight&border_color=7c3aed&bg_color=0e0e1a&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4" alt="Repo Card"/>
 </div>
 
 ---
@@ -252,22 +253,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <br/>
 
-**Made with ⬡ by [yourusername](https://github.com/yourusername)**
+**Made with ⬡ by [mukilanchithrakumar](https://github.com/mukilanchithrakumar)**
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&pause=1500&color=5A5A7A&center=true&vCenter=true&width=400&lines=✦+built+with+pure+HTML+%2B+CSS+%2B+JS;✦+no+frameworks.+no+excuses.;✦+open+source+forever." alt="Footer typing" />
 
 <br/><br/>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/mukilanchithrakumar">
   <img src="https://img.shields.io/badge/GitHub-0e0e1a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/yourusername">
+<a href="https://twitter.com/mukilanchithrakumar">
   <img src="https://img.shields.io/badge/Twitter-0e0e1a?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=7c3aed&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mukilanchithrakumar&label=Profile+Views&color=7c3aed&style=flat" alt="Profile views" />
 
 </div>
